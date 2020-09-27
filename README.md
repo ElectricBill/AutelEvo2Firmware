@@ -100,3 +100,13 @@ You can verify the downloaded firmware accuracy using the following syntax:
 
 `fciv.exe -md5 -add "Model-C_FW_V2.5.0.bin"`
 
+
+----
+
+
+# How to roll back the firmware on an Autel Evo 2:
+
+## Guide available at: 
+
+https://greyarro.ws/t/how-to-guide-roll-back-the-firmware-on-an-autel-evo-2/19972
+
