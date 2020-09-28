@@ -89,6 +89,16 @@ A repo containing all firmware binaries for the Autel Evo II drone
 
 ----
 
+## Force Upgrade file
+
+<b>Filename:</b> `force_upgrade.zip`
+
+<b>MD5:</b> 5cc5e656ed189e3ec9211b0c212489b3
+
+<b>Download:</b> https://github.com/ping-spike/AutelEvo2Firmware/raw/master/force_upgrade/force_upgrade.zip
+
+
+----
 
 
 # Verifying checksums
