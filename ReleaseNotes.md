@@ -6,9 +6,38 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
+## Firmware v2.5.18
+
+<b>Released:</b> 22/12/20
+
+<b>Filename:</b> [Model-C_FW_V2.5.18.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2518)
+
+<b>New Features:</b>
+
+* EVO II aircraft activation
+* Added Oblique photography mission mode
+* Added the option to turn off the LED indicators on front and rear arms
+* Added the option for Beta users to roll back the firmware to the latest public released version
+* Added radiometric support for infiRay 640T sensor in picture-in-picture mode
+* Added cross-hatch feature in Polygon missions
+* Users can manually input GPS coordinates in Waypoint missions
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Optimized takeoff button hold time to eliminate accidental activations
+* Optimized the IMU calibration diagram display
+* Optimized the warning message display times
+* Fixed mobile flight logs display error in iOS
+* Fixed the EXP setting saving issue in Android
+* Fixed English translation errors
+
+
+----
+
+
 ## Firmware v2.5.12
 
-<b>Released:</b> 31/10/20/20
+<b>Released:</b> 31/10/20
 
 <b>Filename:</b> [Model-C_FW_V2.5.12.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2512)
 
@@ -18,7 +47,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Bug Fixes and Optimizations:</b>
 
-* Fixed the “Gimbal is not ready” bug on firmware v2.5.11
+* Fixed the "Gimbal is not ready" bug on firmware v2.5.11
 
 
 ----
