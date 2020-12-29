@@ -6,6 +6,19 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
+## Firmware v2.5.18
+
+<b>Released:</b> 22/11/20
+
+<b>Filename:</b> `Model-C_FW_V2.5.18.bin`
+
+<b>MD5:</b> 6b626959bfe91aa9aaa2a3728bcec401
+
+<b>Download:</b> https://mega.nz/file/3tlUjYqI#RJXwD401rqOtgBPnXKHGuyfKk-l5ij_tAyn6TyM4Fg0
+
+
+----
+
 ## Firmware v2.5.12
 
 <b>Released:</b> 31/10/20
