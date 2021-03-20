@@ -14,15 +14,14 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>New Features:</b>
 
-* Camera:
--- Added RAW file format support in Mission flights
--- Added Manual exposure settings, Aperture Priority, and Shutter Priority support in AEB mode
--- Added Manual exposure mode support in Hyperlapse
--- Added quick zoom changes in the Explorer App
+* Added RAW file format support in Mission flights
+* Added Manual exposure settings, Aperture Priority, and Shutter Priority support in AEB mode
+* Added Manual exposure mode support in Hyperlapse
+* Added quick zoom changes in the Explorer App
 * Intelligent Flight and Mission:
--- Added cruise mode in Hyperlapse
--- Added Orbit Hyperlapse
--- Added Mission recording
+* Added cruise mode in Hyperlapse
+* Added Orbit Hyperlapse
+* Added Mission recording
 
 <b>Bug Fixes and Optimizations:</b>
 
