@@ -6,6 +6,37 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
+## Firmware v2.6.22
+
+<b>Released:</b> 19/03/21
+
+<b>Filename:</b> [Model-C_FW_V2.6.22.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2622)
+
+<b>New Features:</b>
+
+* Camera:
+-- Added RAW file format support in Mission flights
+-- Added Manual exposure settings, Aperture Priority, and Shutter Priority support in AEB mode
+-- Added Manual exposure mode support in Hyperlapse
+-- Added quick zoom changes in the Explorer App
+* Intelligent Flight and Mission:
+-- Added cruise mode in Hyperlapse
+-- Added Orbit Hyperlapse
+-- Added Mission recording
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Optimized auto focus performance
+* Reduced the minimum distance between two waypoints in waypoint mission
+* Removed Boat Mode (EVO II can take off from boats during standard flights)
+* Fixed the negative altitude issue during the landing sequence
+* Fixed the mission upload issue when resuming a mission
+* Added an option to RTH when the aircraft disconnects
+
+
+----
+
+
 ## Firmware v2.5.18
 
 <b>Released:</b> 22/12/20
