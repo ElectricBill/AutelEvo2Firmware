@@ -6,6 +6,32 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
+## Firmware v2.7.25
+
+<b>Released:</b> 01/07/21
+
+<b>Filename:</b> [Model-C_FW_V2.7.25.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2725)
+
+<b>New Features:</b>
+
+* Added Panorama intelligent flight - Landscape, Portrait, Wide-angle (with photo stitching capability), and Sphere (w/o photo stitching capability)
+* Added NTRIP Network RTK support on EVO II RTK series
+* Added FLIR Boson 640 Radiometric sensor support
+* Added customizable Home Point option
+* Added A/B button flight speed change option (Standard <-> Ludicrous)
+
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Optimized No-Fly zone notifications
+* Smoother gimbal pitch start and stop adjustment
+* Increased the gimbal pitch sensitivity to support super slow movement.
+* Standardized the GPS coordinate system (WGS84)
+
+
+----
+
+
 ## Firmware v2.6.22
 
 <b>Released:</b> 19/03/21
