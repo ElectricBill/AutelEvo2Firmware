@@ -17,6 +17,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 
 <b>Download:</b> https://mega.nz/file/6wkylA5A#f6vWB4xJsif0nTeSaOwWNe-yhsUUyLOhaYzjPFQVwlg
 
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v2-firmware-v2131)
+
 
 ----
 
@@ -30,6 +32,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 <b>MD5:</b> eb8a27355272f8cdbd71317c7b8f2d99
 
 <b>Download:</b> https://mega.nz/file/yplAiBSL#4LghStBcLJjBBP9hur8Y4Tsgkq6MLnO0bn6K1ovrVfM
+
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2725)
 
 
 ----
@@ -45,6 +49,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 
 <b>Download:</b> https://mega.nz/file/r51iWQDA#pA7BXFrdNzdDszVUqn2HPK5Rsud_R7ByXee8JhVxShg
 
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2622)
+
 
 ----
 
@@ -58,6 +64,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 <b>MD5:</b> 6b626959bfe91aa9aaa2a3728bcec401
 
 <b>Download:</b> https://mega.nz/file/3tlUjYqI#RJXwD401rqOtgBPnXKHGuyfKk-l5ij_tAyn6TyM4Fg0
+
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2518)
 
 
 ----
@@ -73,6 +81,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 
 <b>Download:</b> https://mega.nz/file/29MEDLpT#fc6sG7hQcOPurWGoSEShe4eE-8g-kqYk8L6zWXekCyM
 
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2512)
+
 
 ----
 
@@ -86,6 +96,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 <b>MD5:</b> a8e729919985a43bd7b98c8d0b79bb37
 
 <b>Download:</b> https://mega.nz/file/n8kQnBLB#Blf3v7aeNzYlNGi7PQy9dPg7xHV6zgRyv6xk1nAYZFA
+
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2511)
 
 
 ----
@@ -101,6 +113,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 
 <b>Download:</b> https://mega.nz/file/3ptxwTCD#wo75En7ir-9i68OufEp6WPm0G5qD_rvPQLRFHtEU4SQ
 
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v250)
+
 
 ----
 
@@ -114,6 +128,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 <b>MD5:</b> 9cfa178ace74b5aeabe4cf5c675a57c2
 
 <b>Download:</b> https://mega.nz/file/z1kTTDjS#uTopRuSMV5GPm6UD36AVgoi-gGiapiyOiz7zoqi-DYY
+
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v233)
 
 
 ----
@@ -129,6 +145,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 
 <b>Download:</b> https://mega.nz/file/7k9lEBqL#Iq-nVtoKEWmDxPKB4XTvyqLMoL_nd8IdelZC56eWF7Y
 
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v230)
+
 
 ----
 
@@ -142,6 +160,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 <b>MD5:</b> 12c1bf24baf97e9df5f27aadb0310f9e
 
 <b>Download:</b> https://mega.nz/file/29sTFZxS#CNAqCq2Tei65Nigxt1L2eaw1eoN3DuJgk2-FoOH5T3E
+
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v223)
 
 
 ----
@@ -157,6 +177,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 
 <b>Download:</b> https://mega.nz/file/u59xUaJb#kK76Gy-A1oVL5VxH6GOlsnnL5R9DKLnk15oNEagglGg
 
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v220)
+
 
 ----
 
@@ -170,6 +192,8 @@ The v1 and v2 firmwares are NOT interchangable or compatible with each other. Yo
 <b>MD5:</b> cb3577f5d56b7c200c54b0037f50f3bc
 
 <b>Download:</b> https://mega.nz/file/a0tzTBrJ#wCTplP3YLRvID1Y_ITU-dBym5mjPzUAy3fgX8E63Z1U
+
+<b>Release Notes:</b> ![View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v210)
 
 
 ----
