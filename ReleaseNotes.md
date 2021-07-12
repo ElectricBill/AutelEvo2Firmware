@@ -6,7 +6,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Evo II v2 Firmware v2.7.25
+## Evo II v2 Firmware v2.1.31
 
 <b>Released:</b> 11th July 2021
 
@@ -303,4 +303,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 
 ## This repo is provided by and maintained by: [Grey Arrows Drone Club](https://GreyArro.ws/)
+
+
+----
 
