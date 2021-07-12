@@ -1,12 +1,27 @@
 # Autel Evo 2 Firmware
 
-A repo containing all firmware binaries for the Autel Evo II drone
+A repo containing all firmware binaries for the Autel Evo II v1 and v2 drones
+
+The v1 and v2 firmwares are NOT interchangable or compatible with each other. You must ONLY install the firmware for your model.
+
+----
+
+
+## Evo II v2 Firmware v2.1.31 
+
+<b>Released:</b> 11th July 2021
+
+<b>Filename:</b> `Model-C_WiMax8020_FW_V2.1.31.zip`
+
+<b>MD5:</b> beb822bc7148483d0d0755eab185ead0
+
+<b>Download:</b> https://mega.nz/file/6wkylA5A#f6vWB4xJsif0nTeSaOwWNe-yhsUUyLOhaYzjPFQVwlg
 
 
 ----
 
 
-## Firmware v2.7.25
+## Evo II v1 Firmware v2.7.25
 
 <b>Released:</b> 1st July 2021
 
@@ -20,7 +35,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.6.22
+## Evo II v1 Firmware v2.6.22
 
 <b>Released:</b> 19th March 2021
 
@@ -34,7 +49,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.5.18
+## Evo II v1 Firmware v2.5.18
 
 <b>Released:</b> 22nd December 2020
 
@@ -48,7 +63,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.5.12
+## Evo II v1 Firmware v2.5.12
 
 <b>Released:</b> 31st October 2020
 
@@ -62,7 +77,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.5.11
+## Evo II v1 Firmware v2.5.11
 
 <b>Released:</b> 21st October 2020
 
@@ -76,7 +91,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.5.0
+## Evo II v1 Firmware v2.5.0
 
 <b>Released:</b> 4th August 2020
 
@@ -90,7 +105,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.3.3
+## Evo II v1 Firmware v2.3.3
 
 <b>Released:</b> 6th July 2020
 
@@ -104,7 +119,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.3.0
+## Evo II v1 Firmware v2.3.0
 
 <b>Released:</b> 21st June 2020
 
@@ -118,7 +133,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.2.3
+## Evo II v1 Firmware v2.2.3
 
 <b>Released:</b> 21st May 2020
 
@@ -132,7 +147,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.2.0
+## Evo II v1 Firmware v2.2.0
 
 <b>Released:</b> 9th May 2020
 
@@ -146,7 +161,7 @@ A repo containing all firmware binaries for the Autel Evo II drone
 ----
 
 
-## Firmware v2.1.0
+## Evo II v1 Firmware v2.1.0
 
 <b>Released:</b> 23rd April 2020
 
@@ -189,4 +204,10 @@ You can verify the downloaded firmware accuracy using the following syntax:
 ## Guide available at: 
 
 https://greyarro.ws/t/how-to-guide-roll-back-the-firmware-on-an-autel-evo-2/19972
+
+
+----
+
+
+## This repo is provided by and maintained by: [Grey Arrows Drone Club](https://GreyArro.ws/)
 

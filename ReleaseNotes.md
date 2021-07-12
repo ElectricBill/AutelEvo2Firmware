@@ -6,9 +6,35 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.7.25
+## Evo II v2 Firmware v2.7.25
 
-<b>Released:</b> 01/07/21
+<b>Released:</b> 11th July 2021
+
+<b>Filename:</b> [Model-C_WiMax8020_FW_V2.1.31.zip](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2131)
+
+<b>New Features:</b>
+
+* Added Panorama intelligent flight - Landscape, Portrait, Wide-angle (with photo stitching capability), and Sphere (w/o photo stitching capability)
+* Added NTRIP Network RTK support on EVO II RTK series
+* Added FLIR Boson 640 Radiometric sensor support
+* Added customizable Home Point option
+* Added A/B button flight speed change option (Standard <-> Ludicrous)
+* Added EVO II V2 support on V2.1.31
+
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Optimized No-Fly zone notifications
+* Smoother gimbal pitch start and stop adjustment
+* Increased the gimbal pitch sensitivity to support super slow movement.
+* Standardized the GPS coordinate system (WGS84)
+
+----
+
+
+## Evo II v1 Firmware v2.7.25
+
+<b>Released:</b> 1st July 2021
 
 <b>Filename:</b> [Model-C_FW_V2.7.25.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2725)
 
@@ -19,7 +45,6 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 * Added FLIR Boson 640 Radiometric sensor support
 * Added customizable Home Point option
 * Added A/B button flight speed change option (Standard <-> Ludicrous)
-
 
 <b>Bug Fixes and Optimizations:</b>
 
@@ -32,9 +57,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.6.22
+## Evo II v1 Firmware v2.6.22
 
-<b>Released:</b> 19/03/21
+<b>Released:</b> 19th March 2021
 
 <b>Filename:</b> [Model-C_FW_V2.6.22.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2622)
 
@@ -62,9 +87,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.5.18
+## Evo II v1 Firmware v2.5.18
 
-<b>Released:</b> 22/12/20
+<b>Released:</b> 22nd December 2020
 
 <b>Filename:</b> [Model-C_FW_V2.5.18.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2518)
 
@@ -91,9 +116,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.5.12
+## Evo II v1 Firmware v2.5.12
 
-<b>Released:</b> 31/10/20
+<b>Released:</b> 31st October 2020
 
 <b>Filename:</b> [Model-C_FW_V2.5.12.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2512)
 
@@ -109,9 +134,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.5.11
+## Evo II v1 Firmware v2.5.11
 
-<b>Released:</b> 21/10/20
+<b>Released:</b> 21st October 2020
 
 <b>Filename:</b> [Model-C_FW_V2.5.11.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2511)
 
@@ -136,9 +161,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.5.0
+## Evo II v1 Firmware v2.5.0
 
-<b>Released:</b> 04/08/20
+<b>Released:</b> 4th August 2020
 
 <b>Filename:</b> [Model-C_FW_V2.5.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v250)
 
@@ -162,9 +187,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.3.3
+## Evo II v1 Firmware v2.3.3
 
-<b>Released:</b> 06/05/20
+<b>Released:</b> 6th July 2020
 
 <b>Filename:</b> [Model-C_FW_V2.3.3.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v233)
 
@@ -181,9 +206,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.3.0
+## Evo II v1 Firmware v2.3.0
 
-<b>Released:</b> 21/06/20
+<b>Released:</b> 21st June 2020
 
 <b>Filename:</b> [Model-C_FW_V2.3.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v230)
 
@@ -206,9 +231,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.2.3
+## Evo II v1 Firmware v2.2.3
 
-<b>Released:</b> 21/05/20
+<b>Released:</b> 21st May 2020
 
 <b>Filename:</b> [Model-C_FW_V2.2.3.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v223)
 
@@ -232,9 +257,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.2.0
+## Evo II v1 Firmware v2.2.0
 
-<b>Released:</b> 09/05/20
+<b>Released:</b> 9th May 2020
 
 <b>Filename:</b> [Model-C_FW_V2.2.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v220)
 
@@ -256,9 +281,9 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Firmware v2.1.0
+## Evo II v1 Firmware v2.1.0
 
-<b>Released:</b> 23/04/20
+<b>Released:</b> 23rd April 2020
 
 <b>Filename:</b> [Model-C_FW_V2.1.0.bin](https://github.com/ping-spike/AutelEvo2Firmware#firmware-v210)
 
@@ -277,5 +302,5 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 ----
 
 
-## Details provided by: [Grey Arrows Drone Club](https://GreyArro.ws/)
+## This repo is provided by and maintained by: [Grey Arrows Drone Club](https://GreyArro.ws/)
 
