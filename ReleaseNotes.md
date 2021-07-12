@@ -10,7 +10,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 11th July 2021
 
-<b>Filename:</b> [Model-C_WiMax8020_FW_V2.1.31.zip](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2131)
+<b>Filename:</b> [Model-C_WiMax8020_FW_V2.1.31.zip](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v2-firmware-v2131)
 
 <b>New Features:</b>
 
@@ -36,7 +36,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 1st July 2021
 
-<b>Filename:</b> [Model-C_FW_V2.7.25.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2725)
+<b>Filename:</b> [Model-C_FW_V2.7.25.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2725)
 
 <b>New Features:</b>
 
@@ -61,7 +61,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 19th March 2021
 
-<b>Filename:</b> [Model-C_FW_V2.6.22.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2622)
+<b>Filename:</b> [Model-C_FW_V2.6.22.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2622)
 
 <b>New Features:</b>
 
@@ -91,7 +91,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 22nd December 2020
 
-<b>Filename:</b> [Model-C_FW_V2.5.18.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2518)
+<b>Filename:</b> [Model-C_FW_V2.5.18.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2518)
 
 <b>New Features:</b>
 
@@ -120,7 +120,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 31st October 2020
 
-<b>Filename:</b> [Model-C_FW_V2.5.12.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2512)
+<b>Filename:</b> [Model-C_FW_V2.5.12.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2512)
 
 <b>New Features:</b>
 
@@ -138,7 +138,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 21st October 2020
 
-<b>Filename:</b> [Model-C_FW_V2.5.11.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v2511)
+<b>Filename:</b> [Model-C_FW_V2.5.11.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2511)
 
 <b>New Features:</b>
 
@@ -165,7 +165,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 4th August 2020
 
-<b>Filename:</b> [Model-C_FW_V2.5.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v250)
+<b>Filename:</b> [Model-C_FW_V2.5.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v250)
 
 <b>New Features:</b>
 
@@ -191,7 +191,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 6th July 2020
 
-<b>Filename:</b> [Model-C_FW_V2.3.3.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v233)
+<b>Filename:</b> [Model-C_FW_V2.3.3.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v233)
 
 <b>New Features:</b>
 
@@ -210,7 +210,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 21st June 2020
 
-<b>Filename:</b> [Model-C_FW_V2.3.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v230)
+<b>Filename:</b> [Model-C_FW_V2.3.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v230)
 
 <b>New Features:</b>
 
@@ -235,7 +235,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 21st May 2020
 
-<b>Filename:</b> [Model-C_FW_V2.2.3.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v223)
+<b>Filename:</b> [Model-C_FW_V2.2.3.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v223)
 
 <b>New Features:</b>
 
@@ -261,7 +261,7 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 
 <b>Released:</b> 9th May 2020
 
-<b>Filename:</b> [Model-C_FW_V2.2.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#firmware-v220)
+<b>Filename:</b> [Model-C_FW_V2.2.0.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v220)
 
 <b>New Features:</b>
 
