@@ -1,8 +1,8 @@
-# Autel Evo 2 Firmware
+# Autel Evo II v1 and Autel Evo II v2 Firmware Archive
 
 A repo containing all firmware binaries for the Autel Evo II v1 and v2 drones.
 
-The v1 and v2 firmwares are NOT interchangable or compatible with each other. You must ONLY install the firmware for your model.
+NOTE: The v1 and v2 firmwares are NOT interchangable or compatible with each other. You must ONLY install the firmware for your model.
 
 ----
 
